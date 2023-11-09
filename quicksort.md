@@ -20,7 +20,7 @@ However, with good pivot selection methods, this worst-case scenario is rare.
 
 ## Stability
 
-- [X]
+- [X] Stable
 
 ## Pseudo Code
 

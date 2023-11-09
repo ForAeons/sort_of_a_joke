@@ -1,4 +1,8 @@
-# HumorSort: A Collection of Theoretical and Humorous Sorting Algorithms
+# SortOfAJoke: A Collection of Theoretical and Humorous Sorting Algorithms
+
+## Inspiration
+
+This repository is inspired by [Ardens](https://www.youtube.com/@Ardens.) and his video on the [forbidden sorting algorithms](https://www.youtube.com/watch?v=ktgxMtWMflU&t=487s). Please check out his channel and video!
 
 ## Description
 

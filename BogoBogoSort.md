@@ -20,8 +20,6 @@ Like Bogo Sort, BogoBogo Sort uses a constant amount of space.
 
 - Not applicable
 
-Stability is not a concern for BogoBogo Sort, as the algorithm does not meaningfully maintain the order of equal elements.
-
 ## Pseudo Code
 
 ```plaintext

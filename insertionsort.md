@@ -14,6 +14,10 @@ Insertion Sort is a simple and efficient comparison-based sorting algorithm. It 
 
 - **Worst**: O(1) auxiliary (only a constant amount of additional memory space is required).
 
+## Stability
+
+- [X] Stable
+
 ## Pseudo Code
 
 ```plaintext

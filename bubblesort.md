@@ -14,6 +14,10 @@ Bubble Sort is a simple comparison-based algorithm in which each pair of adjacen
 
 - **Worst**: O(1) auxiliary (no additional memory space is required aside from the input array).
 
+## Stability
+
+- [X] Stable
+
 ## Pseudo Code
 
 ```plaintext

@@ -47,7 +47,3 @@ procedure shuffle(A)
     end for
 end procedure
 ```
-
-## Remarks
-
-BogoBogo Sort is intentionally inefficient and is primarily of humorous interest. It serves as an educational tool to demonstrate algorithmic inefficiency and the importance of algorithm design in computer science.

@@ -2,9 +2,7 @@
 
 ## Description
 
-Thanos Sort is a fictional sorting algorithm inspired by the Marvel character Thanos. In the spirit of Thanos' philosophy of restoring balance by randomly eliminating half of all life, Thanos Sort "balances" an array by randomly removing half of the elements in the hope that the remaining array is sorted. This process is repeated until the array is sorted or there is nothing left to remove.
-
-It's important to note that Thanos Sort is not a serious sorting algorithm and is used purely for entertainment and educational purposes to discuss algorithm efficiency and randomness.
+Thanos Sort is a fictional sorting algorithm inspired by the Marvel character Thanos. In the spirit of Thanos' philosophy of restoring balance by randomly eliminating half of all life, Thanos Sort "balances" an array by randomly removing half of the elements in the hope that the remaining array is sorted. This process is repeated until the array is sorted or a single element reamins, which forms a trivially sorted array.
 
 ## Time Complexity
 
@@ -21,8 +19,6 @@ Thanos Sort would theoretically operate in place, "snapping away" elements witho
 ## Stability
 
 - Not applicable
-
-As with other non-traditional "sorting" algorithms, stability is not applicable to Thanos Sort because it randomly eliminates elements rather than reordering them.
 
 ## Pseudo Code
 
@@ -68,7 +64,3 @@ function compactArray(A)
     return newArray
 end function
 ```
-
-## Remarks
-
-Thanos Sort is a whimsical algorithm that illustrates the concept of probability and the absurdity of achieving order through random destruction. It is not to be used for sorting in any practical scenario and serves as a humorous example of algorithm design influenced by pop culture.

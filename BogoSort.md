@@ -20,8 +20,6 @@ Bogo Sort requires only a constant amount of additional space, but the time comp
 
 - Not applicable
 
-Stability is not applicable to Bogo Sort because it does not reliably preserve the order of equal elements, given its random nature.
-
 ## Pseudo Code
 
 ```plaintext
@@ -46,7 +44,3 @@ procedure shuffle(A)
     end for
 end procedure
 ```
-
-Remarks
-
-Due to its poor time complexity, Bogo Sort is not used for practical sorting applications and serves as an example of how not to write an efficient algorithm. It is primarily of academic and humorous interest.

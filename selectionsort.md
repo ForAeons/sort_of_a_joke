@@ -14,6 +14,10 @@ Selection Sort is a simple and intuitive sorting algorithm. The algorithm divide
 
 - **Worst**: O(1) auxiliary (no additional memory space is needed besides the input array).
 
+## Stability
+
+- [ ] Not stable
+
 ## Pseudo Code
 
 ```plaintext

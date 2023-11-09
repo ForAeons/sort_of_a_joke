@@ -36,7 +36,3 @@ procedure quantumBogoSort(A : array of items)
     end if
 end procedure
 ```
-
-## Remarks
-
-Quantum Bogo Sort is a playful thought experiment rather than a practical algorithm. It highlights a humorous intersection of computational complexity and theoretical physics but has no application in real-world sorting tasks.

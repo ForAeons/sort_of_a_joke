@@ -16,6 +16,10 @@ Unlike some other sorting algorithms, such as quicksort and heapsort, merge sort
 
 - **Worst**: O(n) auxiliary. Merge sort requires additional space proportional to the size of the input array.
 
+## Stability
+
+- [X] Stable
+
 ## Pseudo Code
 
 ```plaintext

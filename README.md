@@ -13,13 +13,14 @@ Below is a table showcasing the sorting algorithms contained within this reposit
 | Algorithm | Time Complexity | Space Complexity | Stability | Description |
 |-----------|-----------------|------------------|-----------|-------------|
 | Bogo Sort | O((n+1)!) | O(1) | Not applicable | Randomly permutes until sorted |
-| Quantum Bogo Sort | O(1) | O(1) | Not applicable | Sorts by destroying unsorted universes |
+| Bogobogo Sort | Worse than factorial | O(1) | Not applicable | Recursive Bogo Sort variant |
+| Quantum Bogo Sort | O(n) | O(1) | Not applicable | Sorts by destroying unsorted universes |
+| Natural Selection Sort | Undefined | O(n^2) | Not stable | Evolves the array into sorted state |
+| Miracle Sort | Undefined | O(1) | Not applicable | An optimistic algorithm that awaits a serendipitous event to achieve a sorted array |
 | Stalin Sort | O(n) | O(1) | Not applicable | Removes out-of-order elements |
 | Thanos Sort | O(n) | O(1) | Not applicable | Randomly removes half of the elements |
-| Bogobogo Sort | Worse than factorial | O(1) | Not applicable | Recursive Bogo Sort variant |
 | Intelligent Design Sort | O(1) | O(1) | Stable | Assumes a pre-sorted array by design |
 | Left To The Reader As Exercise Sort | O(1) | O(1) | Stable | Leaves the sorting as an exercise |
-| Natural Selection Sort | Undefined | O(n^2) | Not stable | Evolves the array into sorted state |
 
 Please enjoy this compilation with a sense of humor and a dose of curiosity. While these algorithms may not sort your data efficiently (or at all!), they will certainly sort your understanding of sorting algorithms into a more enlightened state.
 
